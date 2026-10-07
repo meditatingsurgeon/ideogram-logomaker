@@ -1,0 +1,8 @@
+{
+  "name": "BrandPackage AI",
+  "description": "High-end SaaS generator for multi-format logo and brand asset packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
